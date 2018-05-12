@@ -1,0 +1,36 @@
+_repo: Das-kleine-Dummerleund-andere-Erz-hlungen_19733
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sapper, Agnes
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '3750'
+    url: http://www.gutenberg.org/2009/agents/3750
+    wikipedia: http://de.wikipedia.org/wiki/Agnes_Sapper
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2006-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19733'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- !lcsh 'Germany -- Fiction'
+tableOfContents: "1. Das kleine Dummerle\r\n2. Hoch droben\r\n3. Im Thüringer Wald\r\
+  \n4. Der Akazienbaum\r\n5. Wie Johannes Ruhn Kaufmann wurde\r\n6. Ein geplagter\
+  \ Mann\r\n7. Helf, wer helfen kann\r\n8. Ein Wunderkind\r\n9. Mutter und Tochter\r\
+  \n10. Die Feuerschau\r\n11. In der Adlerapotheke\r\n12. Bei der Patin\r\n13. Regine\
+  \ Lenz"
+title: 'Das kleine Dummerle
+
+  und andere Erzählungen'
+url: http://www.gutenberg.org/ebooks/19733
