@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3750
     wikipedia: http://de.wikipedia.org/wiki/Agnes_Sapper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19733#Das-kleine-Dummerleund-andere-Erz-hlungen
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2006-11-07'
 gutenberg_type: Text
